@@ -28,7 +28,7 @@
         <dependency>
             <groupId>omero</groupId>
             <artifactId>blitz</artifactId>
-            <version>5.3.4-ice36-b69</version>
+            <version>5.4.1-ice36-b75</version>
             <!-- Exclusion list cribbed from https://github.com/glencoesoftware/omero-ms-core/blob/master/build.gradle -->
             <exclusions>
                 <exclusion>
